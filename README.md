@@ -1,6 +1,3 @@
-### [Cofound.it](https://cofound.it/en/) presents:
+### Futourist Crowdsale Smart Contract:
 
 ---
-
-
-
